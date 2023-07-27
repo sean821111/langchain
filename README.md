@@ -12,5 +12,10 @@ get started with running `langchain.ipynb`
 
 [Reference: langchin quickstart](https://python.langchain.com/docs/get_started/quickstart)
 
-## Chat with PDF file
+
+## application moduel
 docsGPT: Analysis unstructured PDF files and return panel specification in JSON representations
+searchGPT: Let LLM can inferecnce a sequence of question combine with searpAPI.
+
+## demonstarate 
+running `demo.ipynb` to see a simple demo of langchain can do. 
