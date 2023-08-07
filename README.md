@@ -13,9 +13,9 @@ get started with running `langchain.ipynb`
 [Reference: langchin quickstart](https://python.langchain.com/docs/get_started/quickstart)
 
 
-## application moduel
-docsGPT: Analysis unstructured PDF files and return panel specification in JSON representations
-searchGPT: Let LLM can inferecnce a sequence of question combine with searpAPI.
+## Application module
+* docsGPT: Analysis of unstructured PDF files and return panel specification in JSON representations
+* searchGPT: Let LLM can inference a sequence of questions combine with searpAPI.
 
-## demonstarate 
+## Demonstration
 running `demo.ipynb` to see a simple demo of langchain can do. 
